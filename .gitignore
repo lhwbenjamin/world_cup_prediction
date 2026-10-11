@@ -1,0 +1,16 @@
+accuracy_log.json
+model.joblib
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+.venv/
+venv/
+ENV/
+env/
+
+.DS_Store
+Thumbs.db
